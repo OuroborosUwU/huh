@@ -1,0 +1,25 @@
+{
+  "resourceType": "GMTimeline",
+  "resourceVersion": "1.0",
+  "name": "TailsStanceLoopAnim",
+  "momentList": [
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":0,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":160,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":160,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":168,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":168,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":176,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":176,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":184,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":184,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":192,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":192,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":200,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":200,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":208,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":208,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":216,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":216,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":224,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":224,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":232,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":232,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":240,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":240,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":248,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":248,"eventType":0,"collisionObjectId":null,},},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","moment":251,"evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":251,"eventType":0,"collisionObjectId":null,},},
+  ],
+  "parent": {
+    "name": "General",
+    "path": "folders/Timelines/Animations/Level Elements/Player/Characters/Tails/General.yy",
+  },
+}
